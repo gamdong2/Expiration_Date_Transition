@@ -1,4 +1,4 @@
-# 만료 상태 변환일 예측 모델
+# 만료 상태 변환일 예측 모델 개발
 
 ## Skills
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp; <!--scikit-learn-->
@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;  <!--numpy-->
 <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>&nbsp; <!--matplotlib-->
 <img src="https://img.shields.io/badge/imbalanced--learn-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>&nbsp;  <!--imbalanced-->
-
-## 프로젝트 제목
-**만료 상태 변환일 예측 모델 개발**
 
 ## 프로젝트 상세
 
